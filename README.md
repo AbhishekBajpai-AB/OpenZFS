@@ -23,8 +23,6 @@ be found at the [Getting Started Page](https://openzfs.github.io/openzfs-docs/Ge
 
 We have a separate document with [contribution guidelines](./.github/CONTRIBUTING.md).
 
-We have a [Code of Conduct](./CODE_OF_CONDUCT.md).
-
 # Release
 
 OpenZFS is released under a CDDL license.
